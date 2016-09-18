@@ -7,6 +7,8 @@ public class Test1 {
 		System.out.println("add044");
 		System.out.println("服务器");
 		System.out.println("客户端");
+		System.out.println("服务器2");
+		System.out.println("客户端1");
 	}
 
 }
